@@ -12,8 +12,8 @@
 
 Project Name            : 1 Day 1 Mapping (Day 1 - Los Santos - Idlewood - Tempat Kumuh)
 Project Start           : 8 April 2024
-Repository              : 
-EG-Indonesia Discord    : 
+Repository              : https://github.com/renodwi/SAMP-One-Day-One-Mapping
+EG-Indonesia Discord    : https://discord.gg/3TqXFtFEpn
 */
 
 new rndwst;
