@@ -1,4 +1,4 @@
-# SA:MP One Day One Mapping. (Day 8 / 18 April 2024)
+# SA:MP One Day One Mapping. (Day 10 / 18 April 2024)
 
 Halo kali ini gua bikin project baru yaitu One Day One Mapping. Project ini ngapain? jadi project ini adalah bikin mapping gta samp setiap satu hari satu kemudian gua upload ke repo ini. Repo ini bakal dibuka secara umum, lu boleh ambil kode mapping dari repo ini.
 
