@@ -1,4 +1,4 @@
-# SA:MP One Day One Mapping. (Day 10 / 18 April 2024)
+# SA:MP One Day One Mapping. (Day 15 / 24 April 2024)
 
 Halo kali ini gua bikin project baru yaitu One Day One Mapping. Project ini ngapain? jadi project ini adalah bikin mapping gta samp setiap satu hari satu kemudian gua upload ke repo ini. Repo ini bakal dibuka secara umum, lu boleh ambil kode mapping dari repo ini.
 
@@ -23,3 +23,4 @@ Project dimulai pada 8 April 2024
 | 12 | Los Santos | Ganton | Green Ganton | ![](https://raw.githubusercontent.com/renodwi/SAMP-One-Day-One-Mapping/main/Day%2012%20-%20Los%20Santos%20-%20Ganton%20-%20Green%20Ganton/sa-mp-024.png) | [Click Me](https://github.com/renodwi/SAMP-One-Day-One-Mapping/tree/main/Day%2012%20-%20Los%20Santos%20-%20Ganton%20-%20Green%20Ganton)
 | 13 | Los Santos | Jefferson | Better Jefferson | ![](https://raw.githubusercontent.com/renodwi/SAMP-One-Day-One-Mapping/main/Day%2013%20-%20Los%20Santos%20-%20Jefferson%20-%20Better%20Jefferson/screenshoot.png) | [Click Me](https://github.com/renodwi/SAMP-One-Day-One-Mapping/tree/main/Day%2013%20-%20Los%20Santos%20-%20Jefferson%20-%20Better%20Jefferson)
 | 14 | Red County | Flint | More Tree In Flint | ![](https://raw.githubusercontent.com/renodwi/SAMP-One-Day-One-Mapping/main/Day%2014%20-%20Red%20County%20-%20Flint%20-%20More%20Tree%20In%20Flint/sa-mp-043.png) | [Click Me](https://github.com/renodwi/SAMP-One-Day-One-Mapping/tree/main/Day%2014%20-%20Red%20County%20-%20Flint%20-%20More%20Tree%20In%20Flint)
+| 15 | Los Santos | Dilimore | Dilimore Gas | ![](https://raw.githubusercontent.com/renodwi/SAMP-One-Day-One-Mapping/main/Day%2015%20-%20Los%20Santos%20-%20Dilimore%20-%20Dilimore%20Gas/sa-mp-044.png) | [Click Me](https://github.com/renodwi/SAMP-One-Day-One-Mapping/tree/main/Day%2015%20-%20Los%20Santos%20-%20Dilimore%20-%20Dilimore%20Gas)
