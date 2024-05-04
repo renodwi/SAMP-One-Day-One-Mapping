@@ -2,6 +2,8 @@
 
 Halo kali ini gua bikin project baru yaitu One Day One Mapping. Project ini ngapain? jadi project ini adalah bikin mapping gta samp setiap satu hari satu kemudian gua upload ke repo ini. Repo ini bakal dibuka secara umum, lu boleh ambil kode mapping dari repo ini.
 
+**Maaf sebelumnya untuk project ini akan gua lanjutin kalau emang lagi ga sibuk, karena tiap hari kadang sibuk entah karena sekolah atau apalah.**
+
 Project dimulai pada 8 April 2024
 
 ## MOHON KODE MAPPING GUA JANGAN DI JUAL, KALO LIHAT ORANG JUAL HUBUNGI GUA [DISINI](https://bit.ly/rndwst)
